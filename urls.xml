@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+	  <title>Generated feed from list of URLs</title>
+	  <description>Feed created by FiveFilters.org</description>
+	  <link>http://createfeed.fivefilters.org</link>
+		<item>
+	  <link>https://www.famousbirthdays.com/people/michael-kaye.html</link>
+	  <description></description>
+	</item>
+		<item>
+	  <link>https://www.famousbirthdays.com/people/mundo-droid.html</link>
+	  <description></description>
+	</item>
+		<item>
+	  <link>https://www.famousbirthdays.com/people/the-spookiest-ghost.html</link>
+	  <description></description>
+	</item>
+		<item>
+	  <link>https://www.famousbirthdays.com/people/tefi-pessoa.html</link>
+	  <description></description>
+	</item>
+		</channel>
+	</rss>
